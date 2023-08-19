@@ -11,6 +11,8 @@
 		B22F01C22A8F503000D46A44 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22F01C12A8F503000D46A44 /* ContentView.swift */; };
 		B22F01C42A8F503200D46A44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B22F01C32A8F503200D46A44 /* Assets.xcassets */; };
 		B22F01C72A8F503200D46A44 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B22F01C62A8F503200D46A44 /* Preview Assets.xcassets */; };
+		B22F01CF2A8F507000D46A44 /* Data Structures.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22F01CE2A8F507000D46A44 /* Data Structures.swift */; };
+		B22F01D12A8F544F00D46A44 /* String Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22F01D02A8F544F00D46A44 /* String Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		B22F01C32A8F503200D46A44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B22F01C62A8F503200D46A44 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B22F01C82A8F503200D46A44 /* Ryder_Cup.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Ryder_Cup.entitlements; sourceTree = "<group>"; };
+		B22F01CE2A8F507000D46A44 /* Data Structures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Data Structures.swift"; sourceTree = "<group>"; };
+		B22F01D02A8F544F00D46A44 /* String Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				B22F01C32A8F503200D46A44 /* Assets.xcassets */,
 				B22F01C82A8F503200D46A44 /* Ryder_Cup.entitlements */,
 				B22F01C52A8F503200D46A44 /* Preview Content */,
+				B22F01CE2A8F507000D46A44 /* Data Structures.swift */,
+				B22F01D02A8F544F00D46A44 /* String Extensions.swift */,
 			);
 			path = "Ryder Cup";
 			sourceTree = "<group>";
@@ -140,7 +146,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B22F01C22A8F503000D46A44 /* ContentView.swift in Sources */,
+				B22F01D12A8F544F00D46A44 /* String Extensions.swift in Sources */,
 				B22F01C02A8F503000D46A44 /* Ryder_CupApp.swift in Sources */,
+				B22F01CF2A8F507000D46A44 /* Data Structures.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
